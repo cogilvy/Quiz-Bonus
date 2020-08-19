@@ -1,12 +1,11 @@
-# Bonus Team Challenge
+# Bonus Challenge
 
-TEAM CAPTAIN WILL NEED TO CREATE A JAVASCRIPT REPL TO COMPLETE THE CHALLENGE!
+1. Create a Javascript REPL
+2. Copy the code below into your JS file in your REPL and get to work! Instructions are in the code below, after the object defintion.
 
 ---
 
 ## Challenge Details
-
--- Copy the code below into your JS file in your REPL and get to work! Instructions are in the code below, after the object defintion.
 
 ```js
 let jediObj = {
